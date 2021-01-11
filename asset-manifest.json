@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RoboBuds/static/css/main.2310197d.chunk.css",
-    "main.js": "/RoboBuds/static/js/main.975b09e8.chunk.js",
-    "main.js.map": "/RoboBuds/static/js/main.975b09e8.chunk.js.map",
+    "main.js": "/RoboBuds/static/js/main.8da08362.chunk.js",
+    "main.js.map": "/RoboBuds/static/js/main.8da08362.chunk.js.map",
     "runtime-main.js": "/RoboBuds/static/js/runtime-main.6601056b.js",
     "runtime-main.js.map": "/RoboBuds/static/js/runtime-main.6601056b.js.map",
     "static/css/2.31461e4f.chunk.css": "/RoboBuds/static/css/2.31461e4f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.d730e292.chunk.js",
     "static/css/main.2310197d.chunk.css",
-    "static/js/main.975b09e8.chunk.js"
+    "static/js/main.8da08362.chunk.js"
   ]
 }
